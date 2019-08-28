@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorwhite">#ffffff </color>
+    <color name="colorblue">#228992</color>
+    <color name="black">#000000</color>
+    <color name="orange">#E34323</color>
+    <color name="grey">#E0E0E0</color>
+    <color name="yellow">#FEC107</color>
+    <color name="red">#E34323</color>
+    <color name="mainpageblack">#3B3B3B</color>
+    <color name="lightyellow">#FFD54F</color>
+    <color name="darkyellow">#FF9F00</color>
+    <color name="tabtextcolor">#83616F</color>
+    <color name="selectedtabcolor">#76BA1B</color>
+    <color name="home_fragment_black_button">#3B3B3B</color>
+
+
+</resources>
